@@ -1,0 +1,1131 @@
+Index: .classpath
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .classpath	(revision 0ffb07c0628a654390faa66bec240c0286094779)
++++ .classpath	(revision 0ffb07c0628a654390faa66bec240c0286094779)
+@@ -0,0 +1,6 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<classpath>
++	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
++	<classpathentry kind="src" path="codeWithMosh"/>
++	<classpathentry kind="output" path="out/production/Java DP done with mosh"/>
++</classpath>
+Index: .idea/.gitignore
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/.gitignore	(revision 0ffb07c0628a654390faa66bec240c0286094779)
++++ .idea/.gitignore	(revision 0ffb07c0628a654390faa66bec240c0286094779)
+@@ -0,0 +1,8 @@
++# Default ignored files
++/shelf/
++/workspace.xml
++# Datasource local storage ignored files
++/dataSources/
++/dataSources.local.xml
++# Editor-based HTTP Client requests
++/httpRequests/
+Index: .idea/description.html
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/description.html	(revision 0ffb07c0628a654390faa66bec240c0286094779)
++++ .idea/description.html	(revision 0ffb07c0628a654390faa66bec240c0286094779)
+@@ -0,0 +1,1 @@
++<html>Simple <b>Java</b> application that includes a class with <code>main()</code> method</html>
+\ No newline at end of file
+Index: .idea/encodings.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/encodings.xml	(revision 0ffb07c0628a654390faa66bec240c0286094779)
++++ .idea/encodings.xml	(revision 0ffb07c0628a654390faa66bec240c0286094779)
+@@ -0,0 +1,6 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="Encoding">
++    <file url="PROJECT" charset="UTF-8" />
++  </component>
++</project>
+\ No newline at end of file
+Index: .idea/misc.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/misc.xml	(revision 0ffb07c0628a654390faa66bec240c0286094779)
++++ .idea/misc.xml	(revision 0ffb07c0628a654390faa66bec240c0286094779)
+@@ -0,0 +1,9 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="ProjectKey">
++    <option name="state" value="project://e2804f05-5315-4fc6-a121-c522a6c26470" />
++  </component>
++  <component name="ProjectRootManager" version="2" languageLevel="JDK_14" default="true" project-jdk-name="1.6" project-jdk-type="JavaSDK">
++    <output url="file://$PROJECT_DIR$/out" />
++  </component>
++</project>
+\ No newline at end of file
+Index: .idea/modules.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/modules.xml	(revision 0ffb07c0628a654390faa66bec240c0286094779)
++++ .idea/modules.xml	(revision 0ffb07c0628a654390faa66bec240c0286094779)
+@@ -0,0 +1,8 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="ProjectModuleManager">
++    <modules>
++      <module fileurl="file://$PROJECT_DIR$/Java DP done with mosh.iml" filepath="$PROJECT_DIR$/Java DP done with mosh.iml" />
++    </modules>
++  </component>
++</project>
+\ No newline at end of file
+Index: .idea/project-template.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/project-template.xml	(revision 0ffb07c0628a654390faa66bec240c0286094779)
++++ .idea/project-template.xml	(revision 0ffb07c0628a654390faa66bec240c0286094779)
+@@ -0,0 +1,3 @@
++<template>
++  <input-field default="com.company">IJ_BASE_PACKAGE</input-field>
++</template>
+\ No newline at end of file
+Index: .idea/vcs.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/vcs.xml	(revision 0ffb07c0628a654390faa66bec240c0286094779)
++++ .idea/vcs.xml	(revision 0ffb07c0628a654390faa66bec240c0286094779)
+@@ -0,0 +1,6 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="VcsDirectoryMappings">
++    <mapping directory="$PROJECT_DIR$" vcs="Git" />
++  </component>
++</project>
+\ No newline at end of file
+Index: .project
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .project	(revision 0ffb07c0628a654390faa66bec240c0286094779)
++++ .project	(revision 0ffb07c0628a654390faa66bec240c0286094779)
+@@ -0,0 +1,15 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<projectDescription>
++	<name>Java DP done with mosh</name>
++	<comment/>
++	<projects/>
++	<buildSpec>
++		<buildCommand>
++			<name>org.eclipse.jdt.core.javabuilder</name>
++			<arguments/>
++		</buildCommand>
++	</buildSpec>
++	<natures>
++		<nature>org.eclipse.jdt.core.javanature</nature>
++	</natures>
++</projectDescription>
+Index: Java DP done with mosh.eml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- Java DP done with mosh.eml	(revision 0ffb07c0628a654390faa66bec240c0286094779)
++++ Java DP done with mosh.eml	(revision 0ffb07c0628a654390faa66bec240c0286094779)
+@@ -0,0 +1,6 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<component inherit-compiler-output="true" inheritJdk="true">
++	<output-test url="file://$MODULE_DIR$/out/test/Java DP done with mosh"/>
++	<exclude-output/>
++	<contentEntry url="file://$MODULE_DIR$"/>
++</component>
+Index: Java DP done with mosh.iml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- Java DP done with mosh.iml	(revision 0ffb07c0628a654390faa66bec240c0286094779)
++++ Java DP done with mosh.iml	(revision 0ffb07c0628a654390faa66bec240c0286094779)
+@@ -0,0 +1,11 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<module type="JAVA_MODULE" version="4">
++  <component name="NewModuleRootManager" inherit-compiler-output="true">
++    <exclude-output />
++    <content url="file://$MODULE_DIR$">
++      <sourceFolder url="file://$MODULE_DIR$/codeWithMosh" isTestSource="false" />
++    </content>
++    <orderEntry type="inheritedJdk" />
++    <orderEntry type="sourceFolder" forTests="false" />
++  </component>
++</module>
+\ No newline at end of file
+Index: Java DP done with mosh.userlibraries
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- Java DP done with mosh.userlibraries	(revision 0ffb07c0628a654390faa66bec240c0286094779)
++++ Java DP done with mosh.userlibraries	(revision 0ffb07c0628a654390faa66bec240c0286094779)
+@@ -0,0 +1,3 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<eclipse-userlibraries />
++
+Index: codeWithMosh/Code/With/Sir/Sajid/Facade/MobileShopHomework/BlackBerry.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- codeWithMosh/Code/With/Sir/Sajid/Facade/MobileShopHomework/BlackBerry.java	(revision 0ffb07c0628a654390faa66bec240c0286094779)
++++ codeWithMosh/Code/With/Sir/Sajid/Facade/MobileShopHomework/BlackBerry.java	(revision 0ffb07c0628a654390faa66bec240c0286094779)
+@@ -0,0 +1,13 @@
++package Code.With.Sir.Sajid.Facade.MobileShopHomework;
++
++public class BlackBerry implements MobileShop{
++    @Override
++    public void modelNo() {
++        System.out.println("BlackBarry Z10");
++    }
++
++    @Override
++    public void price() {
++        System.out.println("Rs 55000.00");
++    }
++}
+\ No newline at end of file
+Index: codeWithMosh/Code/With/Sir/Sajid/Facade/MobileShopHomework/Demo.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- codeWithMosh/Code/With/Sir/Sajid/Facade/MobileShopHomework/Demo.java	(revision 0ffb07c0628a654390faa66bec240c0286094779)
++++ codeWithMosh/Code/With/Sir/Sajid/Facade/MobileShopHomework/Demo.java	(revision 0ffb07c0628a654390faa66bec240c0286094779)
+@@ -0,0 +1,10 @@
++package Code.With.Sir.Sajid.Facade.MobileShopHomework;
++
++public class Demo {
++    public static void main(String[] args) {
++        Shopkeeper shopKeeper = new Shopkeeper();
++        shopKeeper.sellIphone();
++        shopKeeper.sellSamsung();
++        shopKeeper.sellBlackBerry();
++    }
++}
+Index: codeWithMosh/Code/With/Sir/Sajid/Facade/MobileShopHomework/Iphone.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- codeWithMosh/Code/With/Sir/Sajid/Facade/MobileShopHomework/Iphone.java	(revision 0ffb07c0628a654390faa66bec240c0286094779)
++++ codeWithMosh/Code/With/Sir/Sajid/Facade/MobileShopHomework/Iphone.java	(revision 0ffb07c0628a654390faa66bec240c0286094779)
+@@ -0,0 +1,14 @@
++package Code.With.Sir.Sajid.Facade.MobileShopHomework;
++
++public class Iphone implements MobileShop{
++
++    @Override
++    public void modelNo() {
++        System.out.println("Iphone 6");
++    }
++
++    @Override
++    public void price() {
++        System.out.println("Rs 65000.00");
++    }
++}
+Index: codeWithMosh/Code/With/Sir/Sajid/Facade/MobileShopHomework/MobileShop.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- codeWithMosh/Code/With/Sir/Sajid/Facade/MobileShopHomework/MobileShop.java	(revision 0ffb07c0628a654390faa66bec240c0286094779)
++++ codeWithMosh/Code/With/Sir/Sajid/Facade/MobileShopHomework/MobileShop.java	(revision 0ffb07c0628a654390faa66bec240c0286094779)
+@@ -0,0 +1,6 @@
++package Code.With.Sir.Sajid.Facade.MobileShopHomework;
++
++public interface MobileShop {
++    void modelNo();
++    void  price();
++}
+Index: codeWithMosh/Code/With/Sir/Sajid/Facade/MobileShopHomework/Samsung.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- codeWithMosh/Code/With/Sir/Sajid/Facade/MobileShopHomework/Samsung.java	(revision 0ffb07c0628a654390faa66bec240c0286094779)
++++ codeWithMosh/Code/With/Sir/Sajid/Facade/MobileShopHomework/Samsung.java	(revision 0ffb07c0628a654390faa66bec240c0286094779)
+@@ -0,0 +1,14 @@
++package Code.With.Sir.Sajid.Facade.MobileShopHomework;
++
++public class Samsung implements  MobileShop{
++
++    @Override
++    public void modelNo() {
++        System.out.println("Samsung Galaxy tab 3");
++    }
++
++    @Override
++    public void price() {
++        System.out.println("45000.00");
++    }
++}
+Index: codeWithMosh/Code/With/Sir/Sajid/Facade/MobileShopHomework/Shopkeeper.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- codeWithMosh/Code/With/Sir/Sajid/Facade/MobileShopHomework/Shopkeeper.java	(revision 0ffb07c0628a654390faa66bec240c0286094779)
++++ codeWithMosh/Code/With/Sir/Sajid/Facade/MobileShopHomework/Shopkeeper.java	(revision 0ffb07c0628a654390faa66bec240c0286094779)
+@@ -0,0 +1,28 @@
++package Code.With.Sir.Sajid.Facade.MobileShopHomework;
++
++public class Shopkeeper {
++    private MobileShop iphone;
++    private MobileShop samsang;
++    private  MobileShop blackBerry;
++
++    public Shopkeeper() {
++        this.iphone = new Iphone();
++        this.samsang = new Samsung();
++        this.blackBerry = new  BlackBerry();
++    }
++
++    public void sellIphone(){
++        iphone.modelNo();
++        iphone.price();
++    }
++
++    public void sellSamsung(){
++        samsang.modelNo();
++        samsang.price();
++    }
++
++    public void sellBlackBerry(){
++        blackBerry.modelNo();
++        blackBerry.price();
++    }
++}
+Index: codeWithMosh/Code/With/Sir/Sajid/Facade/VideoPlayApp/AudioMixer.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- codeWithMosh/Code/With/Sir/Sajid/Facade/VideoPlayApp/AudioMixer.java	(revision 0ffb07c0628a654390faa66bec240c0286094779)
++++ codeWithMosh/Code/With/Sir/Sajid/Facade/VideoPlayApp/AudioMixer.java	(revision 0ffb07c0628a654390faa66bec240c0286094779)
+@@ -0,0 +1,10 @@
++package Code.With.Sir.Sajid.Facade.VideoPlayApp;
++
++import java.io.File;
++
++public class AudioMixer {
++    public File fix(VideoFile result){
++        System.out.println("AudioMixer: fixing audio...");
++        return new File("tmp");
++    }
++}
+Index: codeWithMosh/Code/With/Sir/Sajid/Facade/VideoPlayApp/BitRateReader.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- codeWithMosh/Code/With/Sir/Sajid/Facade/VideoPlayApp/BitRateReader.java	(revision 0ffb07c0628a654390faa66bec240c0286094779)
++++ codeWithMosh/Code/With/Sir/Sajid/Facade/VideoPlayApp/BitRateReader.java	(revision 0ffb07c0628a654390faa66bec240c0286094779)
+@@ -0,0 +1,15 @@
++package Code.With.Sir.Sajid.Facade.VideoPlayApp;
++
++public class BitRateReader {
++    public static VideoFile read(VideoFile file, Codec codec){
++        System.out.println("BitRateReader: reading file...");
++        return file;
++    }
++
++    public static VideoFile convert(VideoFile buffer, Codec codec){
++        System.out.println("BitRateReader: writing file...");
++        return buffer;
++    }
++
++}
++
+Index: codeWithMosh/Code/With/Sir/Sajid/Facade/VideoPlayApp/Codec.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- codeWithMosh/Code/With/Sir/Sajid/Facade/VideoPlayApp/Codec.java	(revision 0ffb07c0628a654390faa66bec240c0286094779)
++++ codeWithMosh/Code/With/Sir/Sajid/Facade/VideoPlayApp/Codec.java	(revision 0ffb07c0628a654390faa66bec240c0286094779)
+@@ -0,0 +1,6 @@
++package Code.With.Sir.Sajid.Facade.VideoPlayApp;
++
++public interface Codec {
++
++
++}
+Index: codeWithMosh/Code/With/Sir/Sajid/Facade/VideoPlayApp/Demo.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- codeWithMosh/Code/With/Sir/Sajid/Facade/VideoPlayApp/Demo.java	(revision 0ffb07c0628a654390faa66bec240c0286094779)
++++ codeWithMosh/Code/With/Sir/Sajid/Facade/VideoPlayApp/Demo.java	(revision 0ffb07c0628a654390faa66bec240c0286094779)
+@@ -0,0 +1,11 @@
++package Code.With.Sir.Sajid.Facade.VideoPlayApp;
++
++import java.io.File;
++
++public class Demo {
++    public static void main(String[] args){
++        VideoConversionFacade converter = new VideoConversionFacade();
++        File mp4Video = converter.convertVideo("youtubeVideo.ogg", "mp4");
++
++    }
++}
+Index: codeWithMosh/Code/With/Sir/Sajid/Facade/VideoPlayApp/MPEG4CompressionCodec.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- codeWithMosh/Code/With/Sir/Sajid/Facade/VideoPlayApp/MPEG4CompressionCodec.java	(revision 0ffb07c0628a654390faa66bec240c0286094779)
++++ codeWithMosh/Code/With/Sir/Sajid/Facade/VideoPlayApp/MPEG4CompressionCodec.java	(revision 0ffb07c0628a654390faa66bec240c0286094779)
+@@ -0,0 +1,5 @@
++package Code.With.Sir.Sajid.Facade.VideoPlayApp;
++
++public class MPEG4CompressionCodec implements Codec{
++    public String type = "mp4";
++}
+Index: codeWithMosh/Code/With/Sir/Sajid/Facade/VideoPlayApp/OggCompressionCodec.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- codeWithMosh/Code/With/Sir/Sajid/Facade/VideoPlayApp/OggCompressionCodec.java	(revision 0ffb07c0628a654390faa66bec240c0286094779)
++++ codeWithMosh/Code/With/Sir/Sajid/Facade/VideoPlayApp/OggCompressionCodec.java	(revision 0ffb07c0628a654390faa66bec240c0286094779)
+@@ -0,0 +1,6 @@
++package Code.With.Sir.Sajid.Facade.VideoPlayApp;
++
++public class OggCompressionCodec implements Codec {
++    public String type = "ogg";
++
++}
+Index: codeWithMosh/Code/With/Sir/Sajid/Facade/VideoPlayApp/VideoConversionFacade.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- codeWithMosh/Code/With/Sir/Sajid/Facade/VideoPlayApp/VideoConversionFacade.java	(revision 0ffb07c0628a654390faa66bec240c0286094779)
++++ codeWithMosh/Code/With/Sir/Sajid/Facade/VideoPlayApp/VideoConversionFacade.java	(revision 0ffb07c0628a654390faa66bec240c0286094779)
+@@ -0,0 +1,23 @@
++package Code.With.Sir.Sajid.Facade.VideoPlayApp;
++
++import java.io.File;
++
++public class VideoConversionFacade {
++
++    public File  convertVideo(String fileName, String format){
++        System.out.println("VideoConversionFacade: Conversion started");
++        VideoFile file = new VideoFile(fileName);
++        Codec sourceCodec = CodecFactory.extract(file);
++        Codec destinationCodec;
++        if (format.equals("mp4")){
++            destinationCodec = new OggCompressionCodec();
++        } else {
++            destinationCodec = new MPEG4CompressionCodec();
++        }
++        VideoFile buffer = BitRateReader.read(file, sourceCodec);
++        VideoFile intermediateResult = BitRateReader.convert(buffer, destinationCodec);
++        File result = (new AudioMixer()).fix(intermediateResult);
++        System.out.println("VideoConversionFacade: conversion Completed");
++        return result;
++    }
++}
+Index: codeWithMosh/Code/With/Sir/Sajid/Facade/VideoPlayApp/VideoFile.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- codeWithMosh/Code/With/Sir/Sajid/Facade/VideoPlayApp/VideoFile.java	(revision 0ffb07c0628a654390faa66bec240c0286094779)
++++ codeWithMosh/Code/With/Sir/Sajid/Facade/VideoPlayApp/VideoFile.java	(revision 0ffb07c0628a654390faa66bec240c0286094779)
+@@ -0,0 +1,21 @@
++package Code.With.Sir.Sajid.Facade.VideoPlayApp;
++
++public class VideoFile {
++    private String name;
++    private String codecType;
++
++    public VideoFile(String name) {
++        this.name = name;
++        this.codecType = name.substring(name.indexOf(".") + 1);
++
++    }
++
++    public String getCodecType() {
++        return codecType;
++    }
++
++    public String getName() {
++        return name;
++    }
++
++}
+Index: codeWithMosh/abstraction/dp/MailService.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- codeWithMosh/abstraction/dp/MailService.java	(revision 0ffb07c0628a654390faa66bec240c0286094779)
++++ codeWithMosh/abstraction/dp/MailService.java	(revision 0ffb07c0628a654390faa66bec240c0286094779)
+@@ -0,0 +1,23 @@
++package abstraction.dp;
++
++public class MailService {
++    public void sendEmail(){
++        connect(1);
++        authenticate();
++        //Send Email
++        disconnect();
++
++    }
++
++    private void connect(int timeout){
++        System.out.println("CONNECT");
++    }
++
++    private void disconnect(){
++        System.out.println("DISCONNECT");
++    }
++
++    private void authenticate(){
++        System.out.println("AUTHENTICATE");
++    }
++}
+Index: codeWithMosh/abstraction/dp/Main.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- codeWithMosh/abstraction/dp/Main.java	(revision 0ffb07c0628a654390faa66bec240c0286094779)
++++ codeWithMosh/abstraction/dp/Main.java	(revision 0ffb07c0628a654390faa66bec240c0286094779)
+@@ -0,0 +1,9 @@
++package abstraction.dp;
++
++public class Main {
++    public static void main(String[] args)
++    {
++        var mailService = new MailService();
++        mailService.sendEmail();
++    }
++}
+Index: codeWithMosh/com/ehsan/designpatterns/course/Main.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- codeWithMosh/com/ehsan/designpatterns/course/Main.java	(revision 0ffb07c0628a654390faa66bec240c0286094779)
++++ codeWithMosh/com/ehsan/designpatterns/course/Main.java	(revision 0ffb07c0628a654390faa66bec240c0286094779)
+@@ -0,0 +1,33 @@
++package com.ehsan.designpatterns.course;
++
++public class Main {
++
++    public static void main(String[] args)
++    {
++	// write your code here
++        //work with classes and coupling
++//    User user = new User("Ehsan");
++//    user.name = "Ehsan";
++//        System.out.println(user.name);
++//    user.sayHello();
++//______________________________________________________
++//    Interface
++//        TaxCalculator calculator = getCalculator();
++//        calculator.calculateTex();
++//        System.out.println(calculator.calculateTex());
++    //_______________________________________________
++        // Encapsulation
++
++
++
++    }
++
++    // Encapsulation
++
++    //________________________________________________
++    //interface
++//    public static TaxCalculator getCalculator(){
++//        return new TaxCalculator2020();
++//    }
++    //_____________________________________________
++}
+Index: codeWithMosh/com/ehsan/designpatterns/course/TaxCalculator.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- codeWithMosh/com/ehsan/designpatterns/course/TaxCalculator.java	(revision 0ffb07c0628a654390faa66bec240c0286094779)
++++ codeWithMosh/com/ehsan/designpatterns/course/TaxCalculator.java	(revision 0ffb07c0628a654390faa66bec240c0286094779)
+@@ -0,0 +1,6 @@
++package com.ehsan.designpatterns.course;
++
++public interface TaxCalculator {
++    float calculateTex();
++
++}
+Index: codeWithMosh/com/ehsan/designpatterns/course/TaxCalculator2019.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- codeWithMosh/com/ehsan/designpatterns/course/TaxCalculator2019.java	(revision 0ffb07c0628a654390faa66bec240c0286094779)
++++ codeWithMosh/com/ehsan/designpatterns/course/TaxCalculator2019.java	(revision 0ffb07c0628a654390faa66bec240c0286094779)
+@@ -0,0 +1,12 @@
++package com.ehsan.designpatterns.course;
++
++public class TaxCalculator2019  implements TaxCalculator{
++
++    @Override
++    public float calculateTex() {
++        return 1;
++    }
++    public float calculateInsurance(){
++        return 0;
++    }
++}
+Index: codeWithMosh/com/ehsan/designpatterns/course/TaxCalculator2020.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- codeWithMosh/com/ehsan/designpatterns/course/TaxCalculator2020.java	(revision 0ffb07c0628a654390faa66bec240c0286094779)
++++ codeWithMosh/com/ehsan/designpatterns/course/TaxCalculator2020.java	(revision 0ffb07c0628a654390faa66bec240c0286094779)
+@@ -0,0 +1,8 @@
++package com.ehsan.designpatterns.course;
++
++public class TaxCalculator2020  implements TaxCalculator{
++    @Override
++    public float calculateTex() {
++        return 2;
++    }
++}
+Index: codeWithMosh/com/ehsan/designpatterns/course/User.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- codeWithMosh/com/ehsan/designpatterns/course/User.java	(revision 0ffb07c0628a654390faa66bec240c0286094779)
++++ codeWithMosh/com/ehsan/designpatterns/course/User.java	(revision 0ffb07c0628a654390faa66bec240c0286094779)
+@@ -0,0 +1,15 @@
++package com.ehsan.designpatterns.course;
++
++public class User {
++// fields (attributes)
++    public String name;
++
++    public User(String name) {
++        this.name = name;
++    }
++
++    //methodes
++    public void sayHello(){
++        System.out.println("Hi, My name is "+ this.name);
++    }
++}
+Index: codeWithMosh/encapsulation/dp/Account.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- codeWithMosh/encapsulation/dp/Account.java	(revision 0ffb07c0628a654390faa66bec240c0286094779)
++++ codeWithMosh/encapsulation/dp/Account.java	(revision 0ffb07c0628a654390faa66bec240c0286094779)
+@@ -0,0 +1,28 @@
++package encapsulation.dp;
++
++public class Account {
++    private float balance;
++
++    public void deposit(float amount) {
++        if (amount > 0) {
++            this.balance += amount;
++        }
++    }
++
++    public void withdraw(float amount){
++        if (amount > 0 && amount <= this.balance){
++            this.balance -= amount;
++        }
++    }
++
++    public void setBalance(float balance) {
++        if (balance > 0) {
++            this.balance = balance;
++        }
++    }
++
++    public float getBalance() {
++        return balance;
++    }
++
++}
+Index: codeWithMosh/encapsulation/dp/main.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- codeWithMosh/encapsulation/dp/main.java	(revision 0ffb07c0628a654390faa66bec240c0286094779)
++++ codeWithMosh/encapsulation/dp/main.java	(revision 0ffb07c0628a654390faa66bec240c0286094779)
+@@ -0,0 +1,15 @@
++package encapsulation.dp;
++
++public class main {
++    public static void main(String[] args)
++    {
++        var account = new Account();
++        account.deposit(100);
++        System.out.println("Current balance is : "+account.getBalance());
++
++        account.withdraw(25);
++        System.out.println("Current balance is : "+account.getBalance());
++
++
++    }
++}
+Index: codeWithMosh/inheritance/dp/Main.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- codeWithMosh/inheritance/dp/Main.java	(revision 0ffb07c0628a654390faa66bec240c0286094779)
++++ codeWithMosh/inheritance/dp/Main.java	(revision 0ffb07c0628a654390faa66bec240c0286094779)
+@@ -0,0 +1,8 @@
++package inheritance.dp;
++
++public class Main {
++    public static void main(String[] args)
++    {
++
++    }
++}
+Index: hs_err_pid2824.log
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- hs_err_pid2824.log	(revision 0ffb07c0628a654390faa66bec240c0286094779)
++++ hs_err_pid2824.log	(revision 0ffb07c0628a654390faa66bec240c0286094779)
+@@ -0,0 +1,202 @@
++#
++# There is insufficient memory for the Java Runtime Environment to continue.
++# Native memory allocation (mmap) failed to map 134217728 bytes for Failed to commit area from 0x0000000081e00000 to 0x0000000089e00000 of length 134217728.
++# Possible reasons:
++#   The system is out of physical RAM or swap space
++#   The process is running with CompressedOops enabled, and the Java Heap may be blocking the growth of the native heap
++# Possible solutions:
++#   Reduce memory load on the system
++#   Increase physical memory or swap space
++#   Check if swap backing store is full
++#   Decrease Java heap size (-Xmx/-Xms)
++#   Decrease number of Java threads
++#   Decrease Java thread stack sizes (-Xss)
++#   Set larger code cache with -XX:ReservedCodeCacheSize=
++#   JVM is running with Unscaled Compressed Oops mode in which the Java heap is
++#     placed in the first 4GB address space. The Java Heap base address is the
++#     maximum limit for the native heap growth. Please use -XX:HeapBaseMinAddress
++#     to set the Java Heap base and to place the Java Heap above 4GB virtual address.
++# This output file may be truncated or incomplete.
++#
++#  Out of Memory Error (./open/src/hotspot/os/windows/os_windows.cpp:3315), pid=2824, tid=11892
++#
++# JRE version:  (14.0.2+12) (build )
++# Java VM: OpenJDK 64-Bit Server VM (14.0.2+12-46, mixed mode, sharing, tiered, compressed oops, g1 gc, windows-amd64)
++# No core dump will be written. Minidumps are not enabled by default on client versions of Windows
++#
++
++---------------  S U M M A R Y ------------
++
++Command Line: -javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2020.1.4\lib\idea_rt.jar=1207:C:\Program Files\JetBrains\IntelliJ IDEA 2020.1.4\bin -Dfile.encoding=UTF-8 com.ehsan.designpatterns.course.Main
++
++Host: Intel(R) Core(TM) i7-5600U CPU @ 2.60GHz, 4 cores, 7G,  Windows 10 , 64 bit Build 19041 (10.0.19041.292)
++Time: Wed Oct 14 00:10:59 2020 Pakistan Standard Time elapsed time: 0 seconds (0d 0h 0m 0s)
++
++---------------  T H R E A D  ---------------
++
++Current thread (0x000001eb2b4bd000):  JavaThread "Unknown thread" [_thread_in_vm, id=11892, stack(0x0000001135200000,0x0000001135300000)]
++
++Stack: [0x0000001135200000,0x0000001135300000]
++Native frames: (J=compiled Java code, j=interpreted, Vv=VM code, C=native code)
++V  [jvm.dll+0x5f8a9a]
++V  [jvm.dll+0x74247a]
++V  [jvm.dll+0x743c2f]
++V  [jvm.dll+0x744273]
++V  [jvm.dll+0x20d288]
++V  [jvm.dll+0x5f5dea]
++V  [jvm.dll+0x5eac45]
++V  [jvm.dll+0x2c7e9c]
++V  [jvm.dll+0x2c7cd2]
++V  [jvm.dll+0x2cdbbc]
++V  [jvm.dll+0x313fe8]
++V  [jvm.dll+0x313710]
++V  [jvm.dll+0x2a092a]
++V  [jvm.dll+0x2a1a79]
++V  [jvm.dll+0x71fd48]
++V  [jvm.dll+0x321c14]
++V  [jvm.dll+0x70112c]
++V  [jvm.dll+0x392def]
++V  [jvm.dll+0x394e61]
++C  [jli.dll+0x524b]
++C  [ucrtbase.dll+0x214c2]
++C  [KERNEL32.DLL+0x16fd4]
++C  [ntdll.dll+0x4cec1]
++
++
++---------------  P R O C E S S  ---------------
++
++Threads class SMR info:
++_java_thread_list=0x00007ffadeff3038, length=0, elements={
++}
++
++Java Threads: ( => current thread )
++
++Other Threads:
++  0x000001eb2940d000 GCTaskThread "GC Thread#0" [stack: 0x0000001135300000,0x0000001135400000] [id=16608]
++  0x000001eb2b50f000 ConcurrentGCThread "G1 Main Marker" [stack: 0x0000001135400000,0x0000001135500000] [id=17228]
++  0x000001eb2b510000 ConcurrentGCThread "G1 Conc#0" [stack: 0x0000001135500000,0x0000001135600000] [id=32388]
++
++[error occurred during error reporting (printing all threads), id 0xc0000005, EXCEPTION_ACCESS_VIOLATION (0xc0000005) at pc=0x00007ffade821257]
++
++VM state:not at safepoint (not fully initialized)
++
++VM Mutex/Monitor currently owned by a thread:  ([mutex/lock_event])
++[0x000001eb2b4b8520] Heap_lock - owner thread: 0x000001eb2b4bd000
++
++Heap address: 0x0000000081e00000, size: 2018 MB, Compressed Oops mode: 32-bit
++Narrow klass base: 0x0000000000000000, Narrow klass shift: 0
++
++GC Heap History (0 events):
++No events
++
++Deoptimization events (0 events):
++No events
++
++Classes unloaded (0 events):
++No events
++
++Classes redefined (0 events):
++No events
++
++Internal exceptions (0 events):
++No events
++
++Events (2 events):
++Event: 0.484 Loaded shared library C:\Users\IT\.jdks\openjdk-14.0.2\bin\java.dll
++Event: 0.485 Loaded shared library C:\Users\IT\.jdks\openjdk-14.0.2\bin\zip.dll
++
++
++Dynamic libraries:
++0x00007ff665e10000 - 0x00007ff665e1d000 	C:\Users\IT\.jdks\openjdk-14.0.2\bin\java.exe
++0x00007ffb3fb50000 - 0x00007ffb3fd45000 	C:\WINDOWS\SYSTEM32\ntdll.dll
++0x00007ffb3f8d0000 - 0x00007ffb3f98d000 	C:\WINDOWS\System32\KERNEL32.DLL
++0x00007ffb3d430000 - 0x00007ffb3d6f7000 	C:\WINDOWS\System32\KERNELBASE.dll
++0x00007ffb3d920000 - 0x00007ffb3da20000 	C:\WINDOWS\System32\ucrtbase.dll
++0x00007ffb1ddf0000 - 0x00007ffb1de08000 	C:\Users\IT\.jdks\openjdk-14.0.2\bin\jli.dll
++0x00007ffb3e3e0000 - 0x00007ffb3e580000 	C:\WINDOWS\System32\USER32.dll
++0x00007ffb3d8c0000 - 0x00007ffb3d8e2000 	C:\WINDOWS\System32\win32u.dll
++0x00007ffb3e200000 - 0x00007ffb3e22a000 	C:\WINDOWS\System32\GDI32.dll
++0x00007ffb3daa0000 - 0x00007ffb3dba9000 	C:\WINDOWS\System32\gdi32full.dll
++0x00007ffb3d390000 - 0x00007ffb3d42d000 	C:\WINDOWS\System32\msvcp_win.dll
++0x00007ffb33560000 - 0x00007ffb33575000 	C:\Users\IT\.jdks\openjdk-14.0.2\bin\VCRUNTIME140.dll
++0x00007ffb32ce0000 - 0x00007ffb32f7b000 	C:\WINDOWS\WinSxS\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.19041.488_none_ca04af081b815d21\COMCTL32.dll
++0x00007ffb3fa70000 - 0x00007ffb3fb0e000 	C:\WINDOWS\System32\msvcrt.dll
++0x00007ffb3f430000 - 0x00007ffb3f460000 	C:\WINDOWS\System32\IMM32.DLL
++0x00007ffb10020000 - 0x00007ffb100bb000 	C:\Users\IT\.jdks\openjdk-14.0.2\bin\msvcp140.dll
++0x00007ffade570000 - 0x00007ffadf08e000 	C:\Users\IT\.jdks\openjdk-14.0.2\bin\server\jvm.dll
++0x00007ffb3dbb0000 - 0x00007ffb3dc5a000 	C:\WINDOWS\System32\ADVAPI32.dll
++0x00007ffb3f200000 - 0x00007ffb3f29b000 	C:\WINDOWS\System32\sechost.dll
++0x00007ffb3e700000 - 0x00007ffb3e824000 	C:\WINDOWS\System32\RPCRT4.dll
++0x00007ffb3f990000 - 0x00007ffb3f998000 	C:\WINDOWS\System32\PSAPI.DLL
++0x00007ffb3ba60000 - 0x00007ffb3ba69000 	C:\WINDOWS\SYSTEM32\WSOCK32.dll
++0x00007ffb3f3c0000 - 0x00007ffb3f42b000 	C:\WINDOWS\System32\WS2_32.dll
++0x00007ffb336c0000 - 0x00007ffb336e7000 	C:\WINDOWS\SYSTEM32\WINMM.dll
++0x00007ffb33b40000 - 0x00007ffb33b4a000 	C:\WINDOWS\SYSTEM32\VERSION.dll
++0x00007ffb3bbd0000 - 0x00007ffb3bbe3000 	C:\WINDOWS\SYSTEM32\kernel.appcore.dll
++0x00007ffb313d0000 - 0x00007ffb313da000 	C:\Users\IT\.jdks\openjdk-14.0.2\bin\jimage.dll
++0x00007ffb3b850000 - 0x00007ffb3ba34000 	C:\WINDOWS\SYSTEM32\DBGHELP.DLL
++0x00007ffb36080000 - 0x00007ffb360ac000 	C:\WINDOWS\SYSTEM32\dbgcore.DLL
++0x00007ffb3da20000 - 0x00007ffb3da9f000 	C:\WINDOWS\System32\bcryptPrimitives.dll
++0x00007ffb2f0c0000 - 0x00007ffb2f0ce000 	C:\Users\IT\.jdks\openjdk-14.0.2\bin\instrument.dll
++0x00007ffb10970000 - 0x00007ffb10995000 	C:\Users\IT\.jdks\openjdk-14.0.2\bin\java.dll
++0x00007ffb1b300000 - 0x00007ffb1b316000 	C:\Users\IT\.jdks\openjdk-14.0.2\bin\zip.dll
++
++dbghelp: loaded successfully - version: 4.0.5 - missing functions: none
++symbol engine: initialized successfully - sym options: 0x614 - pdb path: .;C:\Users\IT\.jdks\openjdk-14.0.2\bin;C:\WINDOWS\SYSTEM32;C:\WINDOWS\WinSxS\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.19041.488_none_ca04af081b815d21;C:\Users\IT\.jdks\openjdk-14.0.2\bin\server
++
++VM Arguments:
++jvm_args: -javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2020.1.4\lib\idea_rt.jar=1207:C:\Program Files\JetBrains\IntelliJ IDEA 2020.1.4\bin -Dfile.encoding=UTF-8 
++java_command: com.ehsan.designpatterns.course.Main
++java_class_path (initial): E:\Flutter\Java DP done with mosh\out\production\Java DP done with mosh
++Launcher Type: SUN_STANDARD
++
++[Global flags]
++     intx CICompilerCount                          = 3                                         {product} {ergonomic}
++     uint ConcGCThreads                            = 1                                         {product} {ergonomic}
++     uint G1ConcRefinementThreads                  = 4                                         {product} {ergonomic}
++   size_t G1HeapRegionSize                         = 1048576                                   {product} {ergonomic}
++    uintx GCDrainStackTargetSize                   = 64                                        {product} {ergonomic}
++   size_t InitialHeapSize                          = 134217728                                 {product} {ergonomic}
++   size_t MarkStackSize                            = 4194304                                   {product} {ergonomic}
++   size_t MaxHeapSize                              = 2116026368                                {product} {ergonomic}
++   size_t MinHeapDeltaBytes                        = 1048576                                   {product} {ergonomic}
++   size_t MinHeapSize                              = 8388608                                   {product} {ergonomic}
++    uintx NonNMethodCodeHeapSize                   = 5832780                                {pd product} {ergonomic}
++    uintx NonProfiledCodeHeapSize                  = 122912730                              {pd product} {ergonomic}
++    uintx ProfiledCodeHeapSize                     = 122912730                              {pd product} {ergonomic}
++    uintx ReservedCodeCacheSize                    = 251658240                              {pd product} {ergonomic}
++     bool SegmentedCodeCache                       = true                                      {product} {ergonomic}
++   size_t SoftMaxHeapSize                          = 2116026368                             {manageable} {ergonomic}
++     bool UseCompressedClassPointers               = true                                 {lp64_product} {ergonomic}
++     bool UseCompressedOops                        = true                                 {lp64_product} {ergonomic}
++     bool UseG1GC                                  = true                                      {product} {ergonomic}
++     bool UseLargePagesIndividualAllocation        = false                                  {pd product} {ergonomic}
++
++Logging:
++Log output configuration:
++ #0: stdout all=warning uptime,level,tags
++ #1: stderr all=off uptime,level,tags
++
++Environment Variables:
++PATH=C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\App\db_home\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\Windows Live\Shared;C:\Program Files\nodejs\;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\src\flutter\bin;C:\Program Files\Java\jdk-13.0.2\bin;C:\Users\IT\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\CLion 2019.3\bin;;C:\Program Files\JetBrains\PyCharm Community Edition 2019.3.3\bin;;C:\Users\IT\AppData\Roaming\npm;C:\Program Files\JetBrains\PyCharm 2020.1.4\bin;;C:\Program Files\JetBrains\IntelliJ IDEA 2020.1.4\bin;;C:\Program Files\Java\jdk-13.0.2\bin;
++USERNAME=Ehsan
++OS=Windows_NT
++PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 61 Stepping 4, GenuineIntel
++
++
++
++---------------  S Y S T E M  ---------------
++
++OS: Windows 10 , 64 bit Build 19041 (10.0.19041.292)
++OS uptime: 26 days 22:35 hours
++
++CPU:total 4 (initial active 4) (2 cores per cpu, 2 threads per core) family 6 model 61 stepping 4, cmov, cx8, fxsr, mmx, sse, sse2, sse3, ssse3, sse4.1, sse4.2, popcnt, avx, avx2, aes, clmul, erms, rtm, 3dnowpref, lzcnt, ht, tsc, tscinvbit, bmi1, bmi2, adx, fma
++
++Memory: 4k page, system-wide physical 8064M (404M free)
++TotalPageFile size 26741M (AvailPageFile size 108M)
++current process WorkingSet (physical memory assigned to process): 10M, peak: 10M
++current process commit charge ("private bytes"): 51M, peak: 179M
++
++vm_info: OpenJDK 64-Bit Server VM (14.0.2+12-46) for windows-amd64 JRE (14.0.2+12-46), built on Jul  9 2020 00:31:16 by "mach5one" with MS VC++ 15.9 (VS2017)
++
++END.
+diff --git out/production/Java DP done with mosh/Code/With/Sir/Sajid/Facade/MobileShopHomework/BlackBerry.class out/production/Java DP done with mosh/Code/With/Sir/Sajid/Facade/MobileShopHomework/BlackBerry.class
+new file mode 100644
+index 0000000000000000000000000000000000000000..ed9a172f0debaf9cbaae33bf1242659c3b99e8b5
+GIT binary patch
+literal 735
+zc$}S*O>f#j5Qg97%Y3*Yfs!`;Bux&G1M418BB**uC6t3ptGc36Z;P`E3$_<6rWHS{
+zJtR^N{Q><^RmY@)RN|6cW<0OweRedvzyDnS0?@%>5h<iCWNc)SW7r;xZ-NIRy5Jv%
+zW9i2Xxi>0O@mq#;qd6!bkAj7wjS}qt+P%drmLYZNIhkti@{iK|qft@p#YT#-o5vQz
+z)@dO8$*C}AQUChdDPkKt7AiKXc*s!Q;A60+Nfkr{Zn(G3j7h%eHV1j^GL$~e>g~4U
+zI4#Gq@R;G`oj#ZRi;73wQ-*tDtj>8)_=42;dZ+^Fjr8<Phw{5N6Mi$7q`53SxwCsM
+zF=P@eL)lf4?9aoYG@r#VAf@7JUjzeTR8s#FGx12x7&`8K$L-RBLh=TE&5)&4`9v*x
+zdTxB#Q^^tKb#p6OANKKxE}mhJUO}2NT|UL9RB_6Ta`xy7><4|M@Qh+^DW>t9qJ7hV
+y7kEjTp}sO7FQGu;C#=eYOO)4u<e?>)Jgi%g!V0p#8B*H-DG|ip2zj;aJopP}v!1;G
+
+diff --git out/production/Java DP done with mosh/Code/With/Sir/Sajid/Facade/MobileShopHomework/Demo.class out/production/Java DP done with mosh/Code/With/Sir/Sajid/Facade/MobileShopHomework/Demo.class
+new file mode 100644
+index 0000000000000000000000000000000000000000..d7cdcdc847dc8fa706fbf72da2dad094b73a55e7
+GIT binary patch
+literal 708
+zc$}3|O>fgc5PjREaXy?Tq-g?$0^yW^geAnGN)d-pRiGL;xC*Lz+BmCZ6WbeY91uUN
+zmsV<}{s4XyV#ZX;rI%RRnVmQL-i&AW&)=In0DZhFV+%P4c^BI#2-Iitr}QG3OuX--
+znF>>Z!Uvt`^rJwo+Z#G43LJhiW99wO>C_9f^#VE5WA8+UlF+Yaq$3qf&Em6()h}b`
+z9tU%!7Rr|4AjhWS!sT-1rHZ02i>XNz!#gf&3|ANqWV~D@6UHC8XfVFR_#l$ue4woT
+z?Vu^}ZnI{NRcr+EOcJR1I#J(N@krS-If@8r_$HLmP+HCLJ(y3YdMWVU-@Mcjv16$d
+zfmZjzUk^7(txhIKy&>hLosjzO18E)*DV}D-6X<W)z<Thk6quC_)rsamDsgXbxgI*$
+zr6<7O76d;6vU?PH<OTWd*Vho2S-M5Gkbyb0$-4g!;4z+%FJT`~@5$$Mnnm|+;hbNi
+w<iEK>nO2oneJ$1^G7A(*)}?!{)2>NE?JSoG;293c7g5D?yvTZbnejXS0DT9fnE(I)
+
+diff --git out/production/Java DP done with mosh/Code/With/Sir/Sajid/Facade/MobileShopHomework/Iphone.class out/production/Java DP done with mosh/Code/With/Sir/Sajid/Facade/MobileShopHomework/Iphone.class
+new file mode 100644
+index 0000000000000000000000000000000000000000..a3d6b76bb69a70a5678ffc2bb1e59abd175cb0c0
+GIT binary patch
+literal 717
+zc$}S*O;6iE5Qg6&A9fN$X!t5EAA$A&99SP{sG6#mN~o1wKp2Jd#;nMuwl{Jd5I+kJ
+zMdH8@;73&*Cx{Oz7kZiTyq@>j)y&@iy}bkQ1s}_pK+ZzmK><a=bXT5B5z6>X9JISC
+zND0NSI@akoLT+QTRf3I@g|dSRoEPo>Wj|FBcbNg3=Dgt_ZNy=s<J3<RC8MT|DT4j8
+z*D<lGH_DjC8w)iDGnggJjByaGURH%MBR9Nfr=={PH8)!}<_VRfe!cO@b=_^(weXg(
+z^WB^(aiY_X@O2`5+100FPX?0JU#6`?<#$Z)hl$jMNq&pbjV!z)e14ttNh0JkE1~M?
+zSnUs@wn~m=J7lHinLvgundq#35c6qA_X!Q}f3Di(!9?r}_YI-IBMO*U_RSy()Sk}p
+zl~Ln%HZrVXf!9n}<eld@^Qt+%=SpxU&V{WT&=r47V2NXKDCV%t(HS*h1*@D1^+)sW
+r5DJv8Vbv!8p!x*Jo)uv6Yq6g}N{^7W@sPPO5Qh<yV<GFq&JX_p05zC5
+
+diff --git out/production/Java DP done with mosh/Code/With/Sir/Sajid/Facade/MobileShopHomework/MobileShop.class out/production/Java DP done with mosh/Code/With/Sir/Sajid/Facade/MobileShopHomework/MobileShop.class
+new file mode 100644
+index 0000000000000000000000000000000000000000..3109dac1c97b11cb5108f88f962673802401c002
+GIT binary patch
+literal 187
+zc$`g)F%H5o5Cr!E!H@=?0S#^uEmA}S6qcZN9E&(4Tx13K8wC&GQ3$(&YgU@woA>AW
+z0<cCVkPucIF0DMdzLLs$sdVj1nQNm1-ErX>t19lc+}a2G%O4UL5@xl&YuV`QSsseo
+znw}uqAZ+$b7|a((LfUy}EFn{T^Ty`koiP1*mQgVxggxRVL7QTPs24FqGmadSFLB;3
+AH2?qr
+
+diff --git out/production/Java DP done with mosh/Code/With/Sir/Sajid/Facade/MobileShopHomework/Samsung.class out/production/Java DP done with mosh/Code/With/Sir/Sajid/Facade/MobileShopHomework/Samsung.class
+new file mode 100644
+index 0000000000000000000000000000000000000000..b3eba613d270f0d6bfee7225f3ec82b904165f2f
+GIT binary patch
+literal 729
+zc$}S*O;6iE5Qg6&A9hkhAV9wh;o|@tSW5+gnyQydv<H_~auv>Nvr0DDUgT_`{H*o>
+z5(j<&KdNG!MnI)p+RKdR^}NrnX7={?^$mb`Sg&IWB?n~>6;uhceR(EDBD1de8ue9d
+z3Dx&H)Aj?Qw6WQ#!9~qM-NO@jf3=4f1FKT*GD9{k2BSaPh;O;hY-n>O)3%El!a^w1
+z!7%H#KFLJ>xM*1!wcge-i#Z2P5A#?c%ujF=oYSI8GRAKNk50BMciWpC7f%W9&aUtK
+z+rIDMIbrvsIacCG+nxw@E<)MY$KpW7lGQIJ(uoRt=Jc~k)w#(}#Q16sUJ~~I&H5k_
+z%7vBC2y~_nhiRnp?=nhQX$B^iNk`_osK;X2_Vj?T7yQ><+dP+)jme=QRCq!$BkQ3V
+z=CL}^1>YNYZWklN3ZC)G2`_m6CC<Edj<2{9oQZQ~>k9OfKc?`SV|65!@P?!JrvXb?
+x=1geaoA*Xgp!N$+bNUjE2SD+}0Eb_W`v_9IhpbG7EKY!UjF_GXSsit*-2qK@ogx4L
+
+diff --git out/production/Java DP done with mosh/Code/With/Sir/Sajid/Facade/MobileShopHomework/Shopkeeper.class out/production/Java DP done with mosh/Code/With/Sir/Sajid/Facade/MobileShopHomework/Shopkeeper.class
+new file mode 100644
+index 0000000000000000000000000000000000000000..74241de39b1a9256b4bd01a589ea3460e413c6f7
+GIT binary patch
+literal 1130
+zc$}4zO>YuG7{~tuv|E-DDBGfdZ&h1c)b2$S(;5#oHa5X}z|?qib~`Bp%MMvU<Hs_Q
+zG-~1p@Ix7&St#paFMFBiWoCZQ>z}_re*-wczKtC67783ISY@d8#b@CLBD`?ld41_m
+z7*=1XP)%Mk<ahVZEUYm+eWlN(`$0{5ZdXNaSM=4ndn|lG-nZIQf$aA5=#3uAFFG2y
+zC!?MYr40-DB1+&Eu5px6VR)VmWQ>87BN<UvDyA|Vbh1Gb*P(@VhG!Xb5X12_ys%N7
+zSF^#fX-cuibU|&ia6NNfM}hDMM>2}O+NjU5O^%kq+TQZ6gj=|6;SR@LGpUR*5*Ot<
+zq_4rLHpF`z_YH1k6e*wDSuj|JN=JqAbUO58^j>%Yd1@W)i{MN|%Ge8MVbW9M>@!FP
+zc}OLWWe}V!rdcw^qQ?wnV<p|8w_QDre0i))@JfQ&H*1S6YFv)iI!`C<7il>&oLIJE
+zSpYM8PUi!%KG91?a;JR>*8T<S<0XnS*rZlTt<B(&S||0!42^FwXPeGCF@QCq6^Ux2
+zNpZKqu|r-yC*mP?Niys$qrE0+?ws~_*gtTSVXka3B<M1w1cDZ6ziL?j59utC?Np?5
+kg>+Jp8-&~>WIYx6C>7bbLN-#74MH{v*-Aw|j$c3d2c94I6951J
+
+diff --git out/production/Java DP done with mosh/Code/With/Sir/Sajid/Facade/VideoPlayApp/AudioMixer.class out/production/Java DP done with mosh/Code/With/Sir/Sajid/Facade/VideoPlayApp/AudioMixer.class
+new file mode 100644
+index 0000000000000000000000000000000000000000..ff807b2fc6809f84e970aef27a98b91d4996d5d4
+GIT binary patch
+literal 763
+zc$}S5O;6iE5PeHR9E=Op5DKM0S_&i_vJ!A2RV9SPp)wzmQ4q&XvV@HsJ95?t{uOWl
+z2_$|1KMFBxQlL@~r9RBg%+7oBW<3v&xAy=xP_i+AjD@U&LF5?5+Tv93K!h#6S8vOP
+zX2|_eq0&DYGNp2D2zd-yupJD;`J>!F?`hegswg2)!Aoyc#P?$rYG21vbgFrbFwATw
+zO%?5^GZ}9bkJXt9TSZ|~l}g3N7(QBX9gJgwVf-&73|7}fK}cOn-Wvg$(yeN_W?_=S
+z`3>Dxfy`rygy~M#MggDAs1p{xFsyDxP00_HKH<KKxi8wP$+tyAP`0L;GTINs`DVAv
+zUnMhS4TxdXQ=!~VI&~Qzh<ZR7*NYk=sEJsaxS!1G6V+o__uk*CN}B0?7`96Pj7|eH
+za<%NeeF5Ui#j=+K^l#SwgN?!Vqa<!f6VdRmDl4W9zG8+J$$SG~W|hd!QpD+GbPlfE
+zfL*57b7XVRNz9XV`hJl}K>jx@^ufQ7NlD!+Snh{wjNYMe<bJxr^u-I4omN=1mid%z
+S@)^-*Gv0SBrXrS7%<>cb9<{ds
+
+diff --git out/production/Java DP done with mosh/Code/With/Sir/Sajid/Facade/VideoPlayApp/BitRateReader.class out/production/Java DP done with mosh/Code/With/Sir/Sajid/Facade/VideoPlayApp/BitRateReader.class
+new file mode 100644
+index 0000000000000000000000000000000000000000..1c97e2efb36044ee980ce545444a8f4e40a0363a
+GIT binary patch
+literal 1006
+zc$}S+OHbQC5Xb*Z9!`uYG(7r*rY}f1WDiw^ge#;{DJQE%xJu6(dlNQt>}c75_$2)r
+zZ4V&z&=1fLRWWN&MQ9E*KFsdS&i^;#_4xOnpT7X?qTyl=1qVeBC6pPK2I55UM5KNG
+zsXLI7VJN>-sWN*Eg+{YeMFmv{u7`Pe6Y1gEv5`Z{%ElyG4e}F}@dK?=6B;eW(68Vg
+z!^XZchr-B1DPpO2>vR&Uv|sP3M7CNj7fZPBpypv2D-6q1I1J9ndPz!!8o`Yo42AoC
+zvs1y^zlBb<GB*l2c*yYfLl#T^MVTWWD$PSNP%&?dh!nh|VwoKz;_Urs#3xt`MXO_2
+z3{)yVj)z^TKZ|Zcky?;NBIyXNtbZLWnj>}0uoKKw%_o4pB!;hzI}>uJO>gSoSz_}d
+zzd1t*YS3OP!<(7JrN~xh;Q!ew%|Vo<CsNxf?T&jr`(@lP8|z56^L}a*7um9tg6DWZ
+zGjE>)n4NmEkI3V+GFnU97hvCMGl$1y%XzSXCuF^=1U$t$tyOH`*|m6|vMtp80jIWb
+zj>YY7e+h1WQldYnoKx1WGEt{ikndjLC2^{FHJ!IQjpq_?euDS<7LQ>w*KAz^wUhQI
+
+diff --git out/production/Java DP done with mosh/Code/With/Sir/Sajid/Facade/VideoPlayApp/Codec.class out/production/Java DP done with mosh/Code/With/Sir/Sajid/Facade/VideoPlayApp/Codec.class
+new file mode 100644
+index 0000000000000000000000000000000000000000..a280506e24ae49a201a14e607fb69db47560239f
+GIT binary patch
+literal 131
+zc$_=+Z`VEs1_mnzc6J6PMh0Ey{FGGv@XV47{ou?Z{our`%oKgM#N<SvXjo=SYJNaY
+zVx?n2fj&rGGCKncBZELzVp*boPGVlVzJF3yYH|r916Oc<X;E^jTV_rwkONk#2U5kx
+T$iT?J%m4w546HzsiGd9O4t*h}
+
+diff --git out/production/Java DP done with mosh/Code/With/Sir/Sajid/Facade/VideoPlayApp/Demo.class out/production/Java DP done with mosh/Code/With/Sir/Sajid/Facade/VideoPlayApp/Demo.class
+new file mode 100644
+index 0000000000000000000000000000000000000000..fb5f4443f1dcdf9467a80db1d9dcb73fd97cf09c
+GIT binary patch
+literal 769
+zc$}3|O;6iE5PeHR?6@Wn0|ClcDVIR2_>vQ8ix7yD3rIl$#A)NK%tnqkG7eIH7MDgU
+z5<j3ns_Lw52_bTzUU|mz=IxvD?Ed-t`x(Fib}h`HV4!GY7A1y-K7ZhD$fLkL@AieC
+zFqFQ@NG3lR3iZ8?0h8hTvFZu;N+x%1TgGmi_hrvL<vu60BYQ$!gnWE79A?3>iXKFK
+zFIALLEEp)5_&~+RYLtw+BBeD{5SW;wGJ|1LbLMR<pvqwTsX&sl7@BqOrN?#>%P45Q
+zMfNgCD)&@|qGe!_;p=<bJ`n>dRMd2ac~3^-Y&7VK_>y-+LL5)|JnZmT>Np3B$(_7s
+zXn6lqq(%D%Tt*DF`t6jT=un==0qHJINi&r5(TJGg@ZFWCo(id%H28eTmDl5Au-a-A
+z`$9)lR`=e}4D7(63#6YJFnxu{E>Yx?XXI!1Ct#0hdYNn~15qPu=ie(>C11uGKIWUR
+zQJ@7lPcUvKD0^QV%dvl<^7BQhk}~Kz(yGEr6+dOWu#OG#CZU_yBF!qj+mzKU?xYHz
+F{{aKpx$OV|
+
+diff --git out/production/Java DP done with mosh/Code/With/Sir/Sajid/Facade/VideoPlayApp/MPEG4CompressionCodec.class out/production/Java DP done with mosh/Code/With/Sir/Sajid/Facade/VideoPlayApp/MPEG4CompressionCodec.class
+new file mode 100644
+index 0000000000000000000000000000000000000000..5b520a114f040aee84f4cb03ab3f9dcd4274654a
+GIT binary patch
+literal 486
+zc$}qCOH0E*5dOA_O`Aro@rgHYTCjWRMe748)=ShvB%U|P(r(C$Bo+FzJc!`IAK;G?
+zccbFPgCNV!&f}YJc4pq*UtR$mW5+}TngQLy5}E|vh&?bGvvf*t{fGw@LGwhUqB<kc
+z_7A)kT2e{!K^rDI1}qE9SRptaWg(~cqMA`x6x3yr2<eywOnN;L@@x{b#YLXe>&fNS
+zV3Z|!!OK!)smcoo^lFiF0^9ki?^cCKr$Yl>g2TVkf77X#VAT;RznLdKFYcHh*9EeG
+z#U3k!vcH^qH4`Plx%00kh6JXY&5MAKg<{?P71dV_Vh?KW@`LgcH9@%yrO6#gxhAcn
+nIu3Mt&mcY9ctZP8nhn@es$@WeF3-ButWPL5uvrsr)yVA+za4ed
+
+diff --git out/production/Java DP done with mosh/Code/With/Sir/Sajid/Facade/VideoPlayApp/OggCompressionCodec.class out/production/Java DP done with mosh/Code/With/Sir/Sajid/Facade/VideoPlayApp/OggCompressionCodec.class
+new file mode 100644
+index 0000000000000000000000000000000000000000..d7b1e471734d3138b182853184770e265908a1d8
+GIT binary patch
+literal 480
+zc$}qCO-sW-5PjRkrcI;P_|>a7E$E(WRFFbX!3vRh-Xu%9A<c#)75cM0h~U8=;Exh_
+zqvFMbAj{6aH#_rYXZG#=<rTm=Mm9PyESL^9&?OjV?19mo6)BxZ8IK!+?u95sb46er
+zpM*X16p(4!hmC;+$H6AH2)wCGIK3Cmf(D|Z0n0=}XDnvQ8;XR>+nlYh%aYF1bSjr+
+z#p_zgLTAMUX0t9if$RTN51L98sb^tGaQavAZ#jJuZ2O|%H>+jDt2-9uZ2=jxJY<#7
+z{L5)J3sDnX`u}LbBd`Oxs$xD9T66SE%$aTuN6-^jk5ilI*{N^PNKIea9mOW?JunzQ
+jgN$A43H?V!J8+fN$$$Y<tzCtj&rs}PzZE)YBM(0Sn2L2e
+
+diff --git out/production/Java DP done with mosh/Code/With/Sir/Sajid/Facade/VideoPlayApp/VideoFile.class out/production/Java DP done with mosh/Code/With/Sir/Sajid/Facade/VideoPlayApp/VideoFile.class
+new file mode 100644
+index 0000000000000000000000000000000000000000..c06fa6b5e3d9a90b706f805d4f3ac4ca6e39e134
+GIT binary patch
+literal 764
+zc$}3|+e*Vg5Ix(*#@1LhwraiK?F9_tn~ETUAQTlU6?}4=u60YAmNXUpD+Mp$gCF2W
+ziIYuH)cPO`yF0@<XZFnO+xyEafGw;g5J6OjW}pu-hT%HD=9a_Vnsr>M3)^Ri?MPSp
+zyA086t{g`{;yMxr24FC3>^G~zI+OmDRg#`n;&oZI4!F%JTb5PPJaPE#UaJ)b2htG?
+zn#&t>n8mMBCEt^7ZMz>y2DYBSFh+Ek21b$k_M{NUpi8$ZZjLV*(%IiKxx+wV%)mG%
+z7~<_trQPMFvxm9g_`uVofvLby+$KZz>1|8=p<N~efoX=JqIAVkr%@5!DX%!nQq$&6
+znR_ybyGhNzl5K{~;=fz9&0y4ozyI~3RJO<SsU3tmQcX>injOy;VWX3uO6vg$3*<9G
+zQ;*Q1>8ab4I-_7T{%P80C_0CxaFh9GuzcYWdcIIF2cIycT|6QEh|Im>&eCoY7NGwV
+z{0mwcQl6vCSg3$`stR=rD$;bZh^1~FOT|E6{sEc0Psx}{CY6j40=hB`%RR~ZPqNvQ
+IyrNL6AL&?_Q~&?~
+
+diff --git out/production/Java DP done with mosh/abstraction/dp/MailService.class out/production/Java DP done with mosh/abstraction/dp/MailService.class
+new file mode 100644
+index 0000000000000000000000000000000000000000..39f7dadf4cc7f0eb4e2ae21867e0bbd65cb575af
+GIT binary patch
+literal 866
+zc${^TTW`}a7=~ZBS<{5{u#OfO<1mhGf#nj3BBZJ-qEhK5CG_4+t<6)DOo=;*p9L31
+z;({N*k3xJ-qpe6KQfz;x$M0wR_n)7?0K9{1qky6b!@&+p4D}0s#oYyu&fJsPg$NWw
+z>Aj4k`oK_ZccwPVuuRwvZoy&L=d)BLJWw)@-1(*ZnahPIk}DYq1~Z7GC_@<S(Ymzi
+zpr*HR_)?vVNXdXJp#!@P8aiOlWtx{+xQ(WXmV-OE`;Rj3YpO&@g5o8?o8v4ZWA`+X
+zk@8d`c-SjrpA-yECX?a7w{d_6CLTI?gvShfTM8)oQd^6Ni0$#lW{TWrz0S0ZC#3Iq
+z<mJ#Zo>3$HFaD?D#2*d%{*W3S#B=JrHkOf?EW?>dd_G%{r!kHLzL@evYCCrt>RhG_
+z2jl;rVvoT}MKm9V<Rgtrh9c{ljYy0aFOxuglp0pws5;W}aY*M{fc|#C^!3vCoGh1S
+zroG)CVBcs_zzZ5nnX`zOG&<`9w9%oNp?h6?OxZeC?HVhX-4!bI*Ka5d7+Iy>&LRO7
+z*c-%ZPAur>lN0-7X_?k{>^1JKaQ_BoXMu`-I2ok1PRt>C^$M>EQ_znm$Gy!3X1K#G
+exLv|EHZ)n+nrho2Pq#pt1Zi!7Fuch!kNyHr3XxR+
+
+diff --git out/production/Java DP done with mosh/abstraction/dp/Main.class out/production/Java DP done with mosh/abstraction/dp/Main.class
+new file mode 100644
+index 0000000000000000000000000000000000000000..257b86faae7f5fbe034a03e35cbe6d77dca009b5
+GIT binary patch
+literal 519
+zc${reO;5r=6r80%X(=CqpduG<pozVU@nSSFsd~VW7*E@>!6ogMl*0e=B8evc0DqM6
+zZNYGmJ<R02c{98FzJETx09>GJBL~Ao-a!FHhWeB*xf^mdaUcDu2vUaPrBpJ#VlaCB
+zk%<yRhx_w1;Xx{6<&J0WJ(uB7Bug0x8zu}5We1K9wB|yMZz7s7QDtcUw<?DGbvzaf
+zHBTz>u!ww-JaIpyPQ!}>9*%e-b-iik(^olXXn8xb1|&yWX1n*|Z9g+i6R9SH{)lv*
+zOvv8cAv2Vt?OzzWJFfUsY1kgdizE=YQoqX5*PrW1oS;Hm)h7q0_exl!$|YvRh0_(-
+zTPD{Di&@ja9-*@yKm$!;3;Sqo%y%@cLo1&!pI5NFvv=6rkSYb}s1ohoA=F{*wSoA6
+PxJ0psILhA8$$ZDZc2H|W
+
